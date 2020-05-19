@@ -1,0 +1,104 @@
+	
+	.caixa-banner .banner-ficha {
+		width: 25%;
+		margin: 10px 0 10px 10px;
+		display: inline-block;
+	}
+	.caixa-banner .pt-br {
+		width: 10%;
+		text-align: right;
+		float: right;
+	}
+	.caixa-banner  {
+		padding: 3%;
+		border-bottom: 2px solid black;
+
+	}
+	/*organização do cabeçalio*/
+
+	.cabecalio {
+		padding: 30px
+	}
+
+
+	.caixa-nome form label, .caixa-nome form input {
+		display:block;
+		font-size: 20px;
+		margin: 30px auto 20px auto;
+	}
+
+	.caixa-nome form {
+		display: inline-block;
+	}
+
+	.input-cabecalio {
+		border: unset;
+    	border-bottom: solid 1px black;
+    	width: 80%;
+	}
+
+	.form-nome {
+		width: 60%;
+		text-align: center;
+	}
+
+	.form-classe-personagem {
+		width: 25%;
+		text-align: center;
+	}
+
+	.form-nivel {
+		width: 10%;
+		text-align: center;
+	}
+
+	
+
+	/*organização do subcabeçalio*/
+
+	.raça-tedencia-dinvidade form label, .raça-tedencia-dinvidade form input{
+		display:block;
+		font-size: 20px;
+		margin: 20px auto 20px auto;
+	}
+
+	.raça-tedencia-dinvidade form{
+		display: inline-block;
+	}
+
+	.input-subcabecalio {
+		border: unset;
+    	border-bottom: solid 1px black;
+    	width: 80%;
+	}
+
+	.form-raça-personagem {
+		width: 16%;
+		text-align: center;
+	}
+
+	.form-tedencia {
+		width: 30%;
+		text-align: center;
+	}
+
+	.form-divindade {
+		width: 30%;
+		text-align: center;
+	}
+
+	.form-tamanho {
+		width: 10%;
+		text-align: center;
+	}
+
+	.form-sexo {
+		width: 10%;
+		text-align: center;
+	}
+
+
+
+	
+
+	
